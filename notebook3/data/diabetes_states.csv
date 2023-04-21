@@ -1,0 +1,1072 @@
+Year,State,Region,Percentage
+2000,Alabama,South,7.3
+2000,Alaska,West,4.4
+2000,Arizona,West,5.9
+2000,Arkansas,South,5.9
+2000,California,West,7.1
+2000,Colorado,West,5.2
+2000,Connecticut,Northeast,5.2
+2000,Delaware,South,6.3
+2000,District of Columbia,South,7.4
+2000,Florida,South,6.2
+2000,Georgia,South,7.1
+2000,Hawaii,West,5.1
+2000,Idaho,West,4.8
+2000,Illinois,Midwest,6.2
+2000,Indiana,Midwest,6.0
+2000,Iowa,Midwest,5.6
+2000,Kansas,Midwest,5.7
+2000,Kentucky,South,6.3
+2000,Louisiana,South,6.8
+2000,Maine,Northeast,5.8
+2000,Maryland,South,6.5
+2000,Massachusetts,Northeast,5.7
+2000,Michigan,Midwest,7.0
+2000,Minnesota,Midwest,4.8
+2000,Mississippi,South,7.6
+2000,Missouri,Midwest,6.4
+2000,Montana,West,4.5
+2000,Nebraska,Midwest,4.8
+2000,Nevada,West,6.8
+2000,New Hampshire,Northeast,4.6
+2000,New Jersey,Northeast,5.6
+2000,New Mexico,West,6.6
+2000,New York,Northeast,6.2
+2000,North Carolina,South,6.5
+2000,North Dakota,Midwest,5.0
+2000,Ohio,Midwest,6.1
+2000,Oklahoma,South,5.4
+2000,Oregon,West,5.8
+2000,Pennsylvania,Northeast,6.5
+2000,Rhode Island,Northeast,5.8
+2000,South Carolina,South,7.2
+2000,South Dakota,Midwest,5.4
+2000,Tennessee,South,7.0
+2000,Texas,South,6.5
+2000,Utah,West,5.7
+2000,Vermont,Northeast,4.4
+2000,Virginia,South,6.3
+2000,Washington,West,5.5
+2000,West Virginia,South,7.0
+2000,Wisconsin,Midwest,5.9
+2000,Wyoming,West,5.0
+2001,Alabama,South,9.4
+2001,Alaska,West,4.9
+2001,Arizona,West,6.1
+2001,Arkansas,South,7.3
+2001,California,West,6.6
+2001,Colorado,West,5.0
+2001,Connecticut,Northeast,6.0
+2001,Delaware,South,6.9
+2001,District of Columbia,South,8.5
+2001,Florida,South,7.2
+2001,Georgia,South,7.0
+2001,Hawaii,West,6.0
+2001,Idaho,West,5.4
+2001,Illinois,Midwest,6.5
+2001,Indiana,Midwest,6.4
+2001,Iowa,Midwest,5.3
+2001,Kansas,Midwest,5.6
+2001,Kentucky,South,6.5
+2001,Louisiana,South,7.6
+2001,Maine,Northeast,6.4
+2001,Maryland,South,7.0
+2001,Massachusetts,Northeast,5.4
+2001,Michigan,Midwest,7.2
+2001,Minnesota,Midwest,4.3
+2001,Mississippi,South,9.2
+2001,Missouri,Midwest,6.2
+2001,Montana,West,5.3
+2001,Nebraska,Midwest,5.0
+2001,Nevada,West,5.4
+2001,New Hampshire,Northeast,5.4
+2001,New Jersey,Northeast,6.9
+2001,New Mexico,West,6.2
+2001,New York,Northeast,6.4
+2001,North Carolina,South,6.6
+2001,North Dakota,Midwest,5.0
+2001,Ohio,Midwest,7.0
+2001,Oklahoma,South,7.4
+2001,Oregon,West,5.4
+2001,Pennsylvania,Northeast,6.2
+2001,Rhode Island,Northeast,6.2
+2001,South Carolina,South,7.9
+2001,South Dakota,Midwest,5.8
+2001,Tennessee,South,7.6
+2001,Texas,South,7.3
+2001,Utah,West,4.6
+2001,Vermont,Northeast,5.1
+2001,Virginia,South,6.0
+2001,Washington,West,5.7
+2001,West Virginia,South,8.0
+2001,Wisconsin,Midwest,5.4
+2001,Wyoming,West,4.6
+2002,Alabama,South,8.4
+2002,Alaska,West,4.7
+2002,Arizona,West,6.4
+2002,Arkansas,South,7.5
+2002,California,West,8.0
+2002,Colorado,West,4.8
+2002,Connecticut,Northeast,5.6
+2002,Delaware,South,6.9
+2002,District of Columbia,South,8.2
+2002,Florida,South,6.9
+2002,Georgia,South,7.5
+2002,Hawaii,West,5.6
+2002,Idaho,West,6.2
+2002,Illinois,Midwest,6.9
+2002,Indiana,Midwest,7.4
+2002,Iowa,Midwest,6.2
+2002,Kansas,Midwest,6.3
+2002,Kentucky,South,6.9
+2002,Louisiana,South,7.2
+2002,Maine,Northeast,6.8
+2002,Maryland,South,7.0
+2002,Massachusetts,Northeast,5.7
+2002,Michigan,Midwest,7.9
+2002,Minnesota,Midwest,4.9
+2002,Mississippi,South,8.6
+2002,Missouri,Midwest,7.1
+2002,Montana,West,5.3
+2002,Nebraska,Midwest,5.7
+2002,Nevada,West,6.3
+2002,New Hampshire,Northeast,6.2
+2002,New Jersey,Northeast,6.0
+2002,New Mexico,West,6.1
+2002,New York,Northeast,7.1
+2002,North Carolina,South,7.3
+2002,North Dakota,Midwest,5.9
+2002,Ohio,Midwest,7.4
+2002,Oklahoma,South,6.6
+2002,Oregon,West,6.1
+2002,Pennsylvania,Northeast,7.4
+2002,Rhode Island,Northeast,5.4
+2002,South Carolina,South,8.4
+2002,South Dakota,Midwest,6.0
+2002,Tennessee,South,8.4
+2002,Texas,South,7.6
+2002,Utah,West,5.2
+2002,Vermont,Northeast,5.7
+2002,Virginia,South,6.4
+2002,Washington,West,5.9
+2002,West Virginia,South,9.3
+2002,Wisconsin,Midwest,5.0
+2002,Wyoming,West,5.6
+2003,Alabama,South,8.4
+2003,Alaska,West,5.8
+2003,Arizona,West,6.1
+2003,Arkansas,South,7.0
+2003,California,West,7.5
+2003,Colorado,West,5.0
+2003,Connecticut,Northeast,5.6
+2003,Delaware,South,7.4
+2003,District of Columbia,South,8.8
+2003,Florida,South,7.7
+2003,Georgia,South,8.2
+2003,Hawaii,West,7.2
+2003,Idaho,West,6.3
+2003,Illinois,Midwest,7.4
+2003,Indiana,Midwest,7.6
+2003,Iowa,Midwest,6.1
+2003,Kansas,Midwest,5.8
+2003,Kentucky,South,8.3
+2003,Louisiana,South,8.5
+2003,Maine,Northeast,6.8
+2003,Maryland,South,7.1
+2003,Massachusetts,Northeast,5.9
+2003,Michigan,Midwest,7.7
+2003,Minnesota,Midwest,5.5
+2003,Mississippi,South,10.9
+2003,Missouri,Midwest,6.6
+2003,Montana,West,5.2
+2003,Nebraska,Midwest,6.1
+2003,Nevada,West,6.4
+2003,New Hampshire,Northeast,5.5
+2003,New Jersey,Northeast,6.9
+2003,New Mexico,West,5.6
+2003,New York,Northeast,7.2
+2003,North Carolina,South,8.1
+2003,North Dakota,Midwest,5.7
+2003,Ohio,Midwest,8.5
+2003,Oklahoma,South,6.9
+2003,Oregon,West,6.1
+2003,Pennsylvania,Northeast,7.4
+2003,Rhode Island,Northeast,6.5
+2003,South Carolina,South,9.1
+2003,South Dakota,Midwest,6.6
+2003,Tennessee,South,9.2
+2003,Texas,South,8.4
+2003,Utah,West,6.4
+2003,Vermont,Northeast,5.6
+2003,Virginia,South,7.2
+2003,Washington,West,6.6
+2003,West Virginia,South,8.9
+2003,Wisconsin,Midwest,5.8
+2003,Wyoming,West,5.6
+2004,Alabama,South,7.9
+2004,Alaska,West,4.4
+2004,Arizona,West,6.5
+2004,Arkansas,South,6.7
+2004,California,West,7.5
+2004,Colorado,West,4.6
+2004,Connecticut,Northeast,5.7
+2004,Delaware,South,6.9
+2004,District of Columbia,South,9.0
+2004,Florida,South,7.0
+2004,Georgia,South,7.9
+2004,Hawaii,West,0.0
+2004,Idaho,West,6.2
+2004,Illinois,Midwest,6.0
+2004,Indiana,Midwest,7.6
+2004,Iowa,Midwest,5.9
+2004,Kansas,Midwest,6.4
+2004,Kentucky,South,7.4
+2004,Louisiana,South,8.3
+2004,Maine,Northeast,7.0
+2004,Maryland,South,7.3
+2004,Massachusetts,Northeast,5.5
+2004,Michigan,Midwest,7.5
+2004,Minnesota,Midwest,5.1
+2004,Mississippi,South,9.4
+2004,Missouri,Midwest,7.0
+2004,Montana,West,5.5
+2004,Nebraska,Midwest,6.1
+2004,Nevada,West,6.5
+2004,New Hampshire,Northeast,6.4
+2004,New Jersey,Northeast,6.6
+2004,New Mexico,West,6.4
+2004,New York,Northeast,7.4
+2004,North Carolina,South,8.4
+2004,North Dakota,Midwest,5.4
+2004,Ohio,Midwest,7.6
+2004,Oklahoma,South,7.7
+2004,Oregon,West,6.4
+2004,Pennsylvania,Northeast,7.2
+2004,Rhode Island,Northeast,6.9
+2004,South Carolina,South,8.2
+2004,South Dakota,Midwest,6.2
+2004,Tennessee,South,8.2
+2004,Texas,South,8.1
+2004,Utah,West,5.8
+2004,Vermont,Northeast,5.2
+2004,Virginia,South,7.2
+2004,Washington,West,6.4
+2004,West Virginia,South,10.0
+2004,Wisconsin,Midwest,5.5
+2004,Wyoming,West,5.8
+2005,Alabama,South,9.3
+2005,Alaska,West,5.6
+2005,Arizona,West,7.3
+2005,Arkansas,South,7.7
+2005,California,West,7.4
+2005,Colorado,West,5.1
+2005,Connecticut,Northeast,6.1
+2005,Delaware,South,8.3
+2005,District of Columbia,South,7.6
+2005,Florida,South,7.9
+2005,Georgia,South,8.9
+2005,Hawaii,West,7.0
+2005,Idaho,West,6.8
+2005,Illinois,Midwest,7.9
+2005,Indiana,Midwest,8.1
+2005,Iowa,Midwest,6.3
+2005,Kansas,Midwest,6.7
+2005,Kentucky,South,8.6
+2005,Louisiana,South,9.1
+2005,Maine,Northeast,6.8
+2005,Maryland,South,7.1
+2005,Massachusetts,Northeast,6.2
+2005,Michigan,Midwest,7.9
+2005,Minnesota,Midwest,5.7
+2005,Mississippi,South,9.6
+2005,Missouri,Midwest,7.5
+2005,Montana,West,5.2
+2005,Nebraska,Midwest,7.1
+2005,Nevada,West,7.1
+2005,New Hampshire,Northeast,6.3
+2005,New Jersey,Northeast,7.3
+2005,New Mexico,West,7.0
+2005,New York,Northeast,7.9
+2005,North Carolina,South,8.4
+2005,North Dakota,Midwest,6.2
+2005,Ohio,Midwest,7.3
+2005,Oklahoma,South,8.6
+2005,Oregon,West,6.5
+2005,Pennsylvania,Northeast,7.5
+2005,Rhode Island,Northeast,6.2
+2005,South Carolina,South,10.1
+2005,South Dakota,Midwest,6.0
+2005,Tennessee,South,8.8
+2005,Texas,South,8.3
+2005,Utah,West,6.4
+2005,Vermont,Northeast,5.7
+2005,Virginia,South,7.0
+2005,Washington,West,6.3
+2005,West Virginia,South,9.6
+2005,Wisconsin,Midwest,6.3
+2005,Wyoming,West,6.3
+2006,Alabama,South,9.5
+2006,Alaska,West,7.0
+2006,Arizona,West,8.3
+2006,Arkansas,South,7.7
+2006,California,West,8.5
+2006,Colorado,West,5.5
+2006,Connecticut,Northeast,6.0
+2006,Delaware,South,7.7
+2006,District of Columbia,South,8.5
+2006,Florida,South,7.6
+2006,Georgia,South,9.7
+2006,Hawaii,West,7.6
+2006,Idaho,West,6.8
+2006,Illinois,Midwest,8.1
+2006,Indiana,Midwest,7.9
+2006,Iowa,Midwest,6.7
+2006,Kansas,Midwest,7.1
+2006,Kentucky,South,9.5
+2006,Louisiana,South,9.0
+2006,Maine,Northeast,6.2
+2006,Maryland,South,7.8
+2006,Massachusetts,Northeast,6.2
+2006,Michigan,Midwest,8.7
+2006,Minnesota,Midwest,5.6
+2006,Mississippi,South,10.6
+2006,Missouri,Midwest,6.9
+2006,Montana,West,5.8
+2006,Nebraska,Midwest,7.1
+2006,Nevada,West,7.6
+2006,New Hampshire,Northeast,7.2
+2006,New Jersey,Northeast,7.2
+2006,New Mexico,West,7.0
+2006,New York,Northeast,7.4
+2006,North Carolina,South,9.0
+2006,North Dakota,Midwest,6.3
+2006,Ohio,Midwest,6.4
+2006,Oklahoma,South,9.6
+2006,Oregon,West,6.5
+2006,Pennsylvania,Northeast,7.7
+2006,Rhode Island,Northeast,7.2
+2006,South Carolina,South,9.2
+2006,South Dakota,Midwest,6.1
+2006,Tennessee,South,10.3
+2006,Texas,South,8.4
+2006,Utah,West,6.7
+2006,Vermont,Northeast,5.5
+2006,Virginia,South,7.3
+2006,Washington,West,7.0
+2006,West Virginia,South,10.8
+2006,Wisconsin,Midwest,6.0
+2006,Wyoming,West,6.1
+2007,Alabama,South,9.8
+2007,Alaska,West,6.5
+2007,Arizona,West,8.2
+2007,Arkansas,South,8.8
+2007,California,West,7.8
+2007,Colorado,West,5.6
+2007,Connecticut,Northeast,6.8
+2007,Delaware,South,8.3
+2007,District of Columbia,South,8.4
+2007,Florida,South,7.7
+2007,Georgia,South,10.7
+2007,Hawaii,West,7.1
+2007,Idaho,West,7.8
+2007,Illinois,Midwest,8.7
+2007,Indiana,Midwest,8.1
+2007,Iowa,Midwest,6.2
+2007,Kansas,Midwest,7.0
+2007,Kentucky,South,9.4
+2007,Louisiana,South,10.0
+2007,Maine,Northeast,7.1
+2007,Maryland,South,8.1
+2007,Massachusetts,Northeast,7.1
+2007,Michigan,Midwest,8.5
+2007,Minnesota,Midwest,5.5
+2007,Mississippi,South,10.9
+2007,Missouri,Midwest,7.5
+2007,Montana,West,6.1
+2007,Nebraska,Midwest,6.8
+2007,Nevada,West,8.0
+2007,New Hampshire,Northeast,6.7
+2007,New Jersey,Northeast,8.8
+2007,New Mexico,West,7.5
+2007,New York,Northeast,7.8
+2007,North Carolina,South,8.9
+2007,North Dakota,Midwest,5.8
+2007,Ohio,Midwest,8.9
+2007,Oklahoma,South,9.6
+2007,Oregon,West,6.5
+2007,Pennsylvania,Northeast,7.8
+2007,Rhode Island,Northeast,6.8
+2007,South Carolina,South,9.2
+2007,South Dakota,Midwest,6.3
+2007,Tennessee,South,11.5
+2007,Texas,South,10.7
+2007,Utah,West,6.7
+2007,Vermont,Northeast,6.5
+2007,Virginia,South,7.9
+2007,Washington,West,7.0
+2007,West Virginia,South,9.8
+2007,Wisconsin,Midwest,6.1
+2007,Wyoming,West,6.6
+2008,Alabama,South,10.6
+2008,Alaska,West,7.3
+2008,Arizona,West,7.6
+2008,Arkansas,South,8.9
+2008,California,West,8.7
+2008,Colorado,West,6.1
+2008,Connecticut,Northeast,6.3
+2008,Delaware,South,7.8
+2008,District of Columbia,South,8.3
+2008,Florida,South,8.4
+2008,Georgia,South,10.2
+2008,Hawaii,West,7.7
+2008,Idaho,West,7.0
+2008,Illinois,Midwest,8.2
+2008,Indiana,Midwest,9.2
+2008,Iowa,Midwest,6.4
+2008,Kansas,Midwest,7.7
+2008,Kentucky,South,9.4
+2008,Louisiana,South,10.2
+2008,Maine,Northeast,7.4
+2008,Maryland,South,8.4
+2008,Massachusetts,Northeast,6.8
+2008,Michigan,Midwest,8.6
+2008,Minnesota,Midwest,5.7
+2008,Mississippi,South,10.9
+2008,Missouri,Midwest,8.7
+2008,Montana,West,5.9
+2008,Nebraska,Midwest,7.3
+2008,Nevada,West,8.6
+2008,New Hampshire,Northeast,6.8
+2008,New Jersey,Northeast,8.0
+2008,New Mexico,West,7.6
+2008,New York,Northeast,8.0
+2008,North Carolina,South,9.1
+2008,North Dakota,Midwest,7.0
+2008,Ohio,Midwest,9.3
+2008,Oklahoma,South,9.5
+2008,Oregon,West,6.5
+2008,Pennsylvania,Northeast,7.9
+2008,Rhode Island,Northeast,7.1
+2008,South Carolina,South,9.5
+2008,South Dakota,Midwest,6.0
+2008,Tennessee,South,10.0
+2008,Texas,South,10.0
+2008,Utah,West,6.9
+2008,Vermont,Northeast,5.9
+2008,Virginia,South,7.7
+2008,Washington,West,6.8
+2008,West Virginia,South,10.8
+2008,Wisconsin,Midwest,6.9
+2008,Wyoming,West,7.0
+2009,Alabama,South,10.9
+2009,Alaska,West,6.5
+2009,Arizona,West,8.2
+2009,Arkansas,South,9.5
+2009,California,West,9.2
+2009,Colorado,West,5.9
+2009,Connecticut,Northeast,6.0
+2009,Delaware,South,7.5
+2009,District of Columbia,South,7.9
+2009,Florida,South,9.6
+2009,Georgia,South,9.9
+2009,Hawaii,West,7.9
+2009,Idaho,West,7.8
+2009,Illinois,Midwest,7.9
+2009,Indiana,Midwest,8.9
+2009,Iowa,Midwest,6.9
+2009,Kansas,Midwest,8.1
+2009,Kentucky,South,11.0
+2009,Louisiana,South,10.7
+2009,Maine,Northeast,7.3
+2009,Maryland,South,9.0
+2009,Massachusetts,Northeast,7.5
+2009,Michigan,Midwest,8.8
+2009,Minnesota,Midwest,6.1
+2009,Mississippi,South,10.8
+2009,Missouri,Midwest,7.4
+2009,Montana,West,6.1
+2009,Nebraska,Midwest,7.0
+2009,Nevada,West,7.9
+2009,New Hampshire,Northeast,6.6
+2009,New Jersey,Northeast,8.2
+2009,New Mexico,West,8.2
+2009,New York,Northeast,8.4
+2009,North Carolina,South,9.2
+2009,North Dakota,Midwest,6.9
+2009,Ohio,Midwest,9.5
+2009,Oklahoma,South,10.4
+2009,Oregon,West,7.9
+2009,Pennsylvania,Northeast,8.1
+2009,Rhode Island,Northeast,6.4
+2009,South Carolina,South,9.7
+2009,South Dakota,Midwest,6.6
+2009,Tennessee,South,9.8
+2009,Texas,South,9.5
+2009,Utah,West,6.9
+2009,Vermont,Northeast,5.5
+2009,Virginia,South,7.9
+2009,Washington,West,7.5
+2009,West Virginia,South,11.1
+2009,Wisconsin,Midwest,7.7
+2009,Wyoming,West,6.5
+2010,Alabama,South,11.3
+2010,Alaska,West,6.0
+2010,Arizona,West,7.5
+2010,Arkansas,South,8.9
+2010,California,West,8.6
+2010,Colorado,West,6.1
+2010,Connecticut,Northeast,6.7
+2010,Delaware,South,7.9
+2010,District of Columbia,South,8.0
+2010,Florida,South,8.6
+2010,Georgia,South,9.8
+2010,Hawaii,West,7.6
+2010,Idaho,West,7.7
+2010,Illinois,Midwest,8.5
+2010,Indiana,Midwest,9.3
+2010,Iowa,Midwest,6.8
+2010,Kansas,Midwest,7.9
+2010,Kentucky,South,9.3
+2010,Louisiana,South,9.8
+2010,Maine,Northeast,7.6
+2010,Maryland,South,8.9
+2010,Massachusetts,Northeast,7.0
+2010,Michigan,Midwest,9.6
+2010,Minnesota,Midwest,6.4
+2010,Mississippi,South,11.7
+2010,Missouri,Midwest,8.7
+2010,Montana,West,6.3
+2010,Nebraska,Midwest,7.2
+2010,Nevada,West,8.4
+2010,New Hampshire,Northeast,7.3
+2010,New Jersey,Northeast,8.5
+2010,New Mexico,West,8.0
+2010,New York,Northeast,8.4
+2010,North Carolina,South,9.4
+2010,North Dakota,Midwest,6.9
+2010,Ohio,Midwest,9.3
+2010,Oklahoma,South,9.8
+2010,Oregon,West,6.6
+2010,Pennsylvania,Northeast,9.2
+2010,Rhode Island,Northeast,7.3
+2010,South Carolina,South,10.0
+2010,South Dakota,Midwest,6.2
+2010,Tennessee,South,10.6
+2010,Texas,South,10.0
+2010,Utah,West,7.3
+2010,Vermont,Northeast,6.1
+2010,Virginia,South,8.3
+2010,Washington,West,7.3
+2010,West Virginia,South,10.4
+2010,Wisconsin,Midwest,6.6
+2010,Wyoming,West,6.8
+2011,Alabama,South,10.9
+2011,Alaska,West,8.6
+2011,Arizona,West,9.0
+2011,Arkansas,South,10.3
+2011,California,West,8.5
+2011,Colorado,West,6.6
+2011,Connecticut,Northeast,8.5
+2011,Delaware,South,8.8
+2011,District of Columbia,South,9.5
+2011,Florida,South,9.0
+2011,Georgia,South,10.2
+2011,Hawaii,West,7.8
+2011,Idaho,West,9.0
+2011,Illinois,Midwest,9.4
+2011,Indiana,Midwest,9.6
+2011,Iowa,Midwest,7.3
+2011,Kansas,Midwest,8.9
+2011,Kentucky,South,10.0
+2011,Louisiana,South,11.4
+2011,Maine,Northeast,8.3
+2011,Maryland,South,8.9
+2011,Massachusetts,Northeast,7.5
+2011,Michigan,Midwest,9.2
+2011,Minnesota,Midwest,6.9
+2011,Mississippi,South,11.6
+2011,Missouri,Midwest,9.4
+2011,Montana,West,7.0
+2011,Nebraska,Midwest,7.8
+2011,Nevada,West,10.0
+2011,New Hampshire,Northeast,7.8
+2011,New Jersey,Northeast,8.1
+2011,New Mexico,West,9.4
+2011,New York,Northeast,9.7
+2011,North Carolina,South,10.2
+2011,North Dakota,Midwest,7.6
+2011,Ohio,Midwest,9.1
+2011,Oklahoma,South,10.5
+2011,Oregon,West,8.4
+2011,Pennsylvania,Northeast,8.4
+2011,Rhode Island,Northeast,7.8
+2011,South Carolina,South,11.2
+2011,South Dakota,Midwest,8.7
+2011,Tennessee,South,10.3
+2011,Texas,South,10.3
+2011,Utah,West,7.4
+2011,Vermont,Northeast,6.8
+2011,Virginia,South,9.9
+2011,Washington,West,8.5
+2011,West Virginia,South,10.6
+2011,Wisconsin,Midwest,7.6
+2011,Wyoming,West,7.8
+2012,Alabama,South,11.1
+2012,Alaska,West,7.2
+2012,Arizona,West,10.1
+2012,Arkansas,South,10.3
+2012,California,West,9.6
+2012,Colorado,West,7.2
+2012,Connecticut,Northeast,8.2
+2012,Delaware,South,8.7
+2012,District of Columbia,South,9.0
+2012,Florida,South,9.9
+2012,Georgia,South,9.6
+2012,Hawaii,West,7.0
+2012,Idaho,West,7.8
+2012,Illinois,Midwest,8.9
+2012,Indiana,Midwest,10.1
+2012,Iowa,Midwest,8.6
+2012,Kansas,Midwest,8.8
+2012,Kentucky,South,9.8
+2012,Louisiana,South,11.5
+2012,Maine,Northeast,8.2
+2012,Maryland,South,9.4
+2012,Massachusetts,Northeast,7.7
+2012,Michigan,Midwest,9.4
+2012,Minnesota,Midwest,6.8
+2012,Mississippi,South,11.7
+2012,Missouri,Midwest,9.6
+2012,Montana,West,6.2
+2012,Nebraska,Midwest,7.4
+2012,Nevada,West,8.5
+2012,New Hampshire,Northeast,7.8
+2012,New Jersey,Northeast,8.4
+2012,New Mexico,West,9.4
+2012,New York,Northeast,9.0
+2012,North Carolina,South,9.7
+2012,North Dakota,Midwest,7.8
+2012,Ohio,Midwest,10.5
+2012,Oklahoma,South,10.6
+2012,Oregon,West,9.1
+2012,Pennsylvania,Northeast,8.9
+2012,Rhode Island,Northeast,8.9
+2012,South Carolina,South,10.6
+2012,South Dakota,Midwest,7.0
+2012,Tennessee,South,10.9
+2012,Texas,South,10.6
+2012,Utah,West,7.9
+2012,Vermont,Northeast,6.4
+2012,Virginia,South,9.8
+2012,Washington,West,8.2
+2012,West Virginia,South,11.1
+2012,Wisconsin,Midwest,7.5
+2012,Wyoming,West,8.4
+2013,Alabama,South,12.7
+2013,Alaska,West,7.3
+2013,Arizona,West,9.8
+2013,Arkansas,South,10.5
+2013,California,West,9.9
+2013,Colorado,West,6.3
+2013,Connecticut,Northeast,7.4
+2013,Delaware,South,9.9
+2013,District of Columbia,South,8.4
+2013,Florida,South,9.4
+2013,Georgia,South,10.4
+2013,Hawaii,West,7.5
+2013,Idaho,West,7.8
+2013,Illinois,Midwest,9.2
+2013,Indiana,Midwest,10.0
+2013,Iowa,Midwest,8.3
+2013,Kansas,Midwest,8.8
+2013,Kentucky,South,9.7
+2013,Louisiana,South,10.8
+2013,Maine,Northeast,8.1
+2013,Maryland,South,9.2
+2013,Massachusetts,Northeast,7.7
+2013,Michigan,Midwest,9.3
+2013,Minnesota,Midwest,6.8
+2013,Mississippi,South,12.0
+2013,Missouri,Midwest,8.7
+2013,Montana,West,6.7
+2013,Nebraska,Midwest,8.4
+2013,Nevada,West,9.0
+2013,New Hampshire,Northeast,8.1
+2013,New Jersey,Northeast,8.2
+2013,New Mexico,West,9.8
+2013,New York,Northeast,9.7
+2013,North Carolina,South,10.5
+2013,North Dakota,Midwest,8.1
+2013,Ohio,Midwest,9.2
+2013,Oklahoma,South,10.2
+2013,Oregon,West,8.3
+2013,Pennsylvania,Northeast,8.7
+2013,Rhode Island,Northeast,8.3
+2013,South Carolina,South,11.3
+2013,South Dakota,Midwest,8.2
+2013,Tennessee,South,11.1
+2013,Texas,South,10.9
+2013,Utah,West,7.7
+2013,Vermont,Northeast,6.7
+2013,Virginia,South,9.2
+2013,Washington,West,8.0
+2013,West Virginia,South,11.2
+2013,Wisconsin,Midwest,7.3
+2013,Wyoming,West,8.0
+2014,Alabama,South,11.8
+2014,Alaska,West,7.6
+2014,Arizona,West,9.1
+2014,Arkansas,South,11.5
+2014,California,West,9.9
+2014,Colorado,West,7.0
+2014,Connecticut,Northeast,8.0
+2014,Delaware,South,9.8
+2014,District of Columbia,South,9.2
+2014,Florida,South,9.4
+2014,Georgia,South,11.0
+2014,Hawaii,West,8.9
+2014,Idaho,West,7.1
+2014,Illinois,Midwest,9.4
+2014,Indiana,Midwest,9.8
+2014,Iowa,Midwest,8.4
+2014,Kansas,Midwest,9.5
+2014,Kentucky,South,11.4
+2014,Louisiana,South,10.4
+2014,Maine,Northeast,7.8
+2014,Maryland,South,9.2
+2014,Massachusetts,Northeast,8.8
+2014,Michigan,Midwest,9.0
+2014,Minnesota,Midwest,7.5
+2014,Mississippi,South,11.9
+2014,Missouri,Midwest,10.0
+2014,Montana,West,7.6
+2014,Nebraska,Midwest,8.4
+2014,Nevada,West,8.9
+2014,New Hampshire,Northeast,7.9
+2014,New Jersey,Northeast,8.7
+2014,New Mexico,West,10.4
+2014,New York,Northeast,9.2
+2014,North Carolina,South,9.9
+2014,North Dakota,Midwest,8.0
+2014,Ohio,Midwest,10.3
+2014,Oklahoma,South,10.9
+2014,Oregon,West,8.0
+2014,Pennsylvania,Northeast,9.6
+2014,Rhode Island,Northeast,8.3
+2014,South Carolina,South,10.7
+2014,South Dakota,Midwest,8.2
+2014,Tennessee,South,11.7
+2014,Texas,South,10.8
+2014,Utah,West,7.7
+2014,Vermont,Northeast,7.0
+2014,Virginia,South,9.0
+2014,Washington,West,8.2
+2014,West Virginia,South,12.0
+2014,Wisconsin,Midwest,8.0
+2014,Wyoming,West,7.8
+2015,Alabama,South,12.0
+2015,Alaska,West,7.8
+2015,Arizona,West,9.1
+2015,Arkansas,South,11.2
+2015,California,West,9.6
+2015,Colorado,West,6.4
+2015,Connecticut,Northeast,8.1
+2015,Delaware,South,9.9
+2015,District of Columbia,South,9.3
+2015,Florida,South,9.3
+2015,Georgia,South,10.7
+2015,Hawaii,West,7.8
+2015,Idaho,West,7.3
+2015,Illinois,Midwest,9.1
+2015,Indiana,Midwest,10.5
+2015,Iowa,Midwest,7.7
+2015,Kansas,Midwest,8.9
+2015,Kentucky,South,12.1
+2015,Louisiana,South,11.8
+2015,Maine,Northeast,8.2
+2015,Maryland,South,9.4
+2015,Massachusetts,Northeast,8.0
+2015,Michigan,Midwest,9.5
+2015,Minnesota,Midwest,6.9
+2015,Mississippi,South,13.6
+2015,Missouri,Midwest,10.2
+2015,Montana,West,6.7
+2015,Nebraska,Midwest,8.0
+2015,Nevada,West,9.0
+2015,New Hampshire,Northeast,6.8
+2015,New Jersey,Northeast,7.9
+2015,New Mexico,West,10.5
+2015,New York,Northeast,8.9
+2015,North Carolina,South,9.6
+2015,North Dakota,Midwest,8.1
+2015,Ohio,Midwest,9.5
+2015,Oklahoma,South,10.7
+2015,Oregon,West,9.6
+2015,Pennsylvania,Northeast,8.8
+2015,Rhode Island,Northeast,7.9
+2015,South Carolina,South,10.5
+2015,South Dakota,Midwest,8.4
+2015,Tennessee,South,11.4
+2015,Texas,South,11.2
+2015,Utah,West,7.5
+2015,Vermont,Northeast,7.1
+2015,Virginia,South,9.6
+2015,Washington,West,7.7
+2015,West Virginia,South,12.5
+2015,Wisconsin,Midwest,7.4
+2015,Wyoming,West,7.6
+2016,Alabama,South,13.2
+2016,Alaska,West,7.7
+2016,Arizona,West,9.7
+2016,Arkansas,South,12.1
+2016,California,West,9.7
+2016,Colorado,West,6.2
+2016,Connecticut,Northeast,8.5
+2016,Delaware,South,9.1
+2016,District of Columbia,South,8.4
+2016,Florida,South,9.8
+2016,Georgia,South,11.4
+2016,Hawaii,West,9.5
+2016,Idaho,West,8.1
+2016,Illinois,Midwest,9.5
+2016,Indiana,Midwest,10.4
+2016,Iowa,Midwest,8.1
+2016,Kansas,Midwest,8.5
+2016,Kentucky,South,11.8
+2016,Louisiana,South,11.1
+2016,Maine,Northeast,8.5
+2016,Maryland,South,9.8
+2016,Massachusetts,Northeast,8.3
+2016,Michigan,Midwest,9.8
+2016,Minnesota,Midwest,7.6
+2016,Mississippi,South,12.4
+2016,Missouri,Midwest,10.2
+2016,Montana,West,6.9
+2016,Nebraska,Midwest,8.0
+2016,Nevada,West,10.1
+2016,New Hampshire,Northeast,7.7
+2016,New Jersey,Northeast,8.1
+2016,New Mexico,West,10.4
+2016,New York,Northeast,9.4
+2016,North Carolina,South,10.1
+2016,North Dakota,Midwest,8.2
+2016,Ohio,Midwest,9.7
+2016,Oklahoma,South,10.9
+2016,Oregon,West,8.4
+2016,Pennsylvania,Northeast,9.6
+2016,Rhode Island,Northeast,8.6
+2016,South Carolina,South,11.5
+2016,South Dakota,Midwest,6.9
+2016,Tennessee,South,11.2
+2016,Texas,South,10.9
+2016,Utah,West,7.7
+2016,Vermont,Northeast,7.3
+2016,Virginia,South,9.6
+2016,Washington,West,8.6
+2016,West Virginia,South,12.7
+2016,Wisconsin,Midwest,8.6
+2016,Wyoming,West,7.6
+2017,Alabama,South,12.5
+2017,Alaska,West,7.7
+2017,Arizona,West,9.4
+2017,Arkansas,South,10.8
+2017,California,West,9.8
+2017,Colorado,West,7.0
+2017,Connecticut,Northeast,8.4
+2017,Delaware,South,9.6
+2017,District of Columbia,South,8.2
+2017,Florida,South,8.6
+2017,Georgia,South,10.6
+2017,Hawaii,West,9.8
+2017,Idaho,West,7.9
+2017,Illinois,Midwest,10.1
+2017,Indiana,Midwest,10.6
+2017,Iowa,Midwest,8.3
+2017,Kansas,Midwest,9.5
+2017,Kentucky,South,11.3
+2017,Louisiana,South,12.6
+2017,Maine,Northeast,8.7
+2017,Maryland,South,9.4
+2017,Massachusetts,Northeast,8.4
+2017,Michigan,Midwest,9.5
+2017,Minnesota,Midwest,6.9
+2017,Mississippi,South,12.9
+2017,Missouri,Midwest,9.1
+2017,Montana,West,6.7
+2017,Nebraska,Midwest,9.2
+2017,Nevada,West,9.4
+2017,New Hampshire,Northeast,7.1
+2017,New Jersey,Northeast,9.8
+2017,New Mexico,West,9.7
+2017,New York,Northeast,9.4
+2017,North Carolina,South,10.3
+2017,North Dakota,Midwest,8.5
+2017,Ohio,Midwest,9.9
+2017,Oklahoma,South,11.7
+2017,Oregon,West,8.3
+2017,Pennsylvania,Northeast,9.0
+2017,Rhode Island,Northeast,7.8
+2017,South Carolina,South,11.8
+2017,South Dakota,Midwest,9.9
+2017,Tennessee,South,11.7
+2017,Texas,South,11.6
+2017,Utah,West,7.5
+2017,Vermont,Northeast,6.8
+2017,Virginia,South,9.6
+2017,Washington,West,8.4
+2017,West Virginia,South,12.8
+2017,Wisconsin,Midwest,8.1
+2017,Wyoming,West,8.1
+2018,Alabama,South,12.7
+2018,Alaska,West,8.7
+2018,Arizona,West,9.6
+2018,Arkansas,South,12.4
+2018,California,West,9.7
+2018,Colorado,West,6.6
+2018,Connecticut,Northeast,8.4
+2018,Delaware,South,10.1
+2018,District of Columbia,South,9.2
+2018,Florida,South,10.5
+2018,Georgia,South,11.7
+2018,Hawaii,West,10.3
+2018,Idaho,West,9.2
+2018,Illinois,Midwest,9.0
+2018,Indiana,Midwest,11.2
+2018,Iowa,Midwest,8.8
+2018,Kansas,Midwest,10.4
+2018,Kentucky,South,12.1
+2018,Louisiana,South,12.9
+2018,Maine,Northeast,8.7
+2018,Maryland,South,10.8
+2018,Massachusetts,Northeast,7.7
+2018,Michigan,Midwest,10.2
+2018,Minnesota,Midwest,7.9
+2018,Mississippi,South,12.9
+2018,Missouri,Midwest,10.2
+2018,Montana,West,8.1
+2018,Nebraska,Midwest,8.8
+2018,Nevada,West,9.6
+2018,New Hampshire,Northeast,8.7
+2018,New Jersey,Northeast,9.4
+2018,New Mexico,West,11.2
+2018,New York,Northeast,9.8
+2018,North Carolina,South,11.0
+2018,North Dakota,Midwest,8.7
+2018,Ohio,Midwest,10.7
+2018,Oklahoma,South,11.4
+2018,Oregon,West,10.0
+2018,Pennsylvania,Northeast,9.9
+2018,Rhode Island,Northeast,9.4
+2018,South Carolina,South,11.6
+2018,South Dakota,Midwest,8.2
+2018,Tennessee,South,12.2
+2018,Texas,South,12.0
+2018,Utah,West,8.7
+2018,Vermont,Northeast,7.6
+2018,Virginia,South,9.5
+2018,Washington,West,9.0
+2018,West Virginia,South,13.4
+2018,Wisconsin,Midwest,7.4
+2018,Wyoming,West,7.9
+2019,Alabama,South,12.2
+2019,Alaska,West,7.2
+2019,Arizona,West,9.8
+2019,Arkansas,South,12.1
+2019,California,West,9.4
+2019,Colorado,West,6.6
+2019,Connecticut,Northeast,8.2
+2019,Delaware,South,10.9
+2019,District of Columbia,South,9.5
+2019,Florida,South,9.4
+2019,Georgia,South,11.2
+2019,Hawaii,West,9.2
+2019,Idaho,West,9.3
+2019,Illinois,Midwest,9.9
+2019,Indiana,Midwest,11.1
+2019,Iowa,Midwest,9.0
+2019,Kansas,Midwest,9.7
+2019,Kentucky,South,11.7
+2019,Louisiana,South,11.3
+2019,Maine,Northeast,8.7
+2019,Maryland,South,9.8
+2019,Massachusetts,Northeast,7.4
+2019,Michigan,Midwest,9.5
+2019,Minnesota,Midwest,7.8
+2019,Mississippi,South,13.2
+2019,Missouri,Midwest,9.0
+2019,Montana,West,6.4
+2019,Nebraska,Midwest,9.1
+2019,Nevada,West,9.9
+2019,New Hampshire,Northeast,8.0
+2019,New Jersey,Northeast,0.0
+2019,New Mexico,West,11.0
+2019,New York,Northeast,9.3
+2019,North Carolina,South,10.5
+2019,North Dakota,Midwest,8.2
+2019,Ohio,Midwest,10.3
+2019,Oklahoma,South,11.0
+2019,Oregon,West,7.5
+2019,Pennsylvania,Northeast,9.2
+2019,Rhode Island,Northeast,9.1
+2019,South Carolina,South,11.6
+2019,South Dakota,Midwest,9.3
+2019,Tennessee,South,12.1
+2019,Texas,South,11.8
+2019,Utah,West,8.3
+2019,Vermont,Northeast,7.4
+2019,Virginia,South,9.8
+2019,Washington,West,8.6
+2019,West Virginia,South,13.0
+2019,Wisconsin,Midwest,7.4
+2019,Wyoming,West,6.8
+2020,Alabama,South,12.9
+2020,Alaska,West,7.4
+2020,Arizona,West,9.7
+2020,Arkansas,South,11.7
+2020,California,West,9.2
+2020,Colorado,West,7.1
+2020,Connecticut,Northeast,8.2
+2020,Delaware,South,10.5
+2020,District of Columbia,South,8.3
+2020,Florida,South,9.5
+2020,Georgia,South,10.7
+2020,Hawaii,West,9.5
+2020,Idaho,West,7.9
+2020,Illinois,Midwest,9.3
+2020,Indiana,Midwest,10.5
+2020,Iowa,Midwest,9.0
+2020,Kansas,Midwest,10.0
+2020,Kentucky,South,11.4
+2020,Louisiana,South,12.7
+2020,Maine,Northeast,8.3
+2020,Maryland,South,9.1
+2020,Massachusetts,Northeast,7.7
+2020,Michigan,Midwest,10.6
+2020,Minnesota,Midwest,7.8
+2020,Mississippi,South,13.1
+2020,Missouri,Midwest,9.4
+2020,Montana,West,7.8
+2020,Nebraska,Midwest,8.9
+2020,Nevada,West,9.7
+2020,New Hampshire,Northeast,7.5
+2020,New Jersey,Northeast,8.6
+2020,New Mexico,West,11.0
+2020,New York,Northeast,9.1
+2020,North Carolina,South,11.0
+2020,North Dakota,Midwest,9.3
+2020,Ohio,Midwest,10.9
+2020,Oklahoma,South,11.9
+2020,Oregon,West,8.4
+2020,Pennsylvania,Northeast,9.8
+2020,Rhode Island,Northeast,9.0
+2020,South Carolina,South,11.9
+2020,South Dakota,Midwest,7.0
+2020,Tennessee,South,12.5
+2020,Texas,South,12.1
+2020,Utah,West,8.5
+2020,Vermont,Northeast,6.7
+2020,Virginia,South,9.8
+2020,Washington,West,7.9
+2020,West Virginia,South,13.1
+2020,Wisconsin,Midwest,7.6
+2020,Wyoming,West,7.5
