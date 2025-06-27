@@ -1,6 +1,6 @@
 # Anthropology 115: Introduction to Medical Anthropology
 
-**Semester:** Spring 2023
+**Development Semester:** Spring 2023
 
 **Team Lead:** Manaar Salama
 
